@@ -1,0 +1,6 @@
+train: ../Dataset/images/train/
+val: ../Dataset/images/val/
+
+no: 1
+
+names: ['racoon']
